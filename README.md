@@ -1,4 +1,4 @@
-# OnlineGroceryManagementSystem
+# Online Grocery Management System
 
 • Designed and developed a robust Online Grocery Management System using ASP.NET, 
 with a comprehensive MS SQL Server database. The system caters to sellers, and 
